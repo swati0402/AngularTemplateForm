@@ -1,0 +1,9 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+.ng-invalid:not(form).ng-touched
+{
+border: 1px solid red;
+}
+.field-error
+{
+border: 2px solid red;
+}
